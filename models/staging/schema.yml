@@ -13,4 +13,4 @@ sources:
       # loaded_at_field: record_loaded_at
       tables:
         - name: green_tripdata
-        - name: yellow_tripdata_external_table
+        - name: yellow_tripdata
